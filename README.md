@@ -1,32 +1,30 @@
-
-
 | # | Title | Type | Source Code | Best Solution | Difficulty | Done | Date |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|11| Container with most water | Array | Python | | Medium | :x: | 2022-02-21 |
-|56| Merge intervals | Array | Python | | Medium |:o: | 2022-02-21 |
-|4| Median of Two Sorted Arrays | Array |Python | |Hard |  :x: | 2022-02-22 |
-|200| Number of Islands | Array | Python | | Medium | :o: | 2022-02-22 |
-|973| K close points to origin | Array | Python | | Medium | :o: | 2022-02-22 |
-|994| Rotting Oranges | Array | Python | | Medium | :o: | 2022-02-22 |
-|253| Meeting Room | Array | Python | | Medium | :x: | 2022-02-22 |
-|2176| Count Equal and Divisible Pairs in an Array | Array | Python | | Easy | :o: | 2022-02-22 |
-|238| Product of Array Except Self | Array | Python | | Medium | :o: | 2022-02-23 |
-|1152| Analyze User Website Visit Pattern | Array | Python | | Medium | :o: | 2022-02-23 |
-|33| Search in Roatated Sorted Array | Array | Python | |Medium | :o: | 2022-02-23 |
-|1268| Search Suggestions Systm | Array | Python | | Medium | :o: | 2022-02-23 |
-|380| Insert Delete GetRandom O(1) | Array | Python | | Medium | :o: | 2022-02-23 |
-|79| Word Search | Array | Python | | Medium | :o: | 2022-02-24 |
-|957| Prison Cells After N Days | Array | Python | | Medium | :x: | 2022-02-24 |
-|240| Search a 2D Matrix II | Array | Python | | Medium | :x: | 2022-02-24 |
-|347| Top K Frequent Elements | Array | Python | | Medium | :x: | 2022-02-25 |
-|1010| Pairs of Songs With Total Durations Divisible by 60 | Array | Python | | Medium | :x: | 2022-02-25 |
-|48| Rotate Image | Array | Python | | Medium | :o: | 2022-02-25 |
-|1167| Minimum Cost to Connect Sticks | Array | Python | | Medium | :o: | 2022-02-25 |
-|54| Spiral Matrix | Array | Python | | Medium | :x: | 2022-02-25 |
-|31| Next Permutations | Array | Python | | Medium | :x: | 2022-03-01 |
-|348| Design tic-Tac-Toe | Array | Python | | Medium | :o: | 2022-03-01 |
-|322| Coin Change | Array | Python | | Medium | :x: | 2022-03-02 |
-|1465| Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Array | Python | | Medium | :o: | 2022-03-02 |
-|45| Jump Game II | Array | Python | | Medium | :o: | 2022-03-02 |
-|215| Kth Largest Element in an Array | Array | Python | | Medium | :o: | 2022-03-03 |
-|152| maximum Product Subarray | Array | Python | | Medium | :o: | 2022-03-04 |
+|11| [Container with most water](https://leetcode-cn.com/problems/container-with-most-water/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/11_container_with_most_water.py) | Medium | :x: | 2022-02-21 |
+|56| [Merge intervals](https://leetcode-cn.com/problems/merge-intervals/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/56_merge_intervals.py) | Medium |:o: | 2022-02-21 |
+|4| [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | Array |Python | |Hard |  :x: | 2022-02-22 |
+|200| [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/200_number_of_islands.py)| Medium | :o: | 2022-02-22 |
+|973| [K close points to origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/973_k_close_points_to_origin.py) | Medium | :o: | 2022-02-22 |
+|994| [Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/994_rotting_oranges.py) | Medium | :o: | 2022-02-22 |
+|253| [Meeting Room](https://leetcode-cn.com/problems/meeting-rooms-ii/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/253_meeting_room.py) | Medium | :x: | 2022-02-22 |
+|2176| [Count Equal and Divisible Pairs in an Array](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/2176_count_equal_and_divisible_pairs_in_an_array.py) | Easy | :o: | 2022-02-22 |
+|238| [Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/238_product_of_array_except_self.py) | Medium | :o: | 2022-02-23 |
+|1152| [Analyze User Website Visit Pattern](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/1152_analyze_user_website_visit_pattern.py)| Medium | :o: | 2022-02-23 |
+|33| [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | Array | Python |[:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/33_search_in_rotated_sorted_array.py) |Medium | :o: | 2022-02-23 |
+|1268| [Search Suggestions System](https://leetcode-cn.com/problems/search-suggestions-system/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/1268_search_suggestions_system.py)| Medium | :o: | 2022-02-23 |
+|380| [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/380_insert_delete_getrandom_o(1).py)| Medium | :o: | 2022-02-23 |
+|79| [Word Search](https://leetcode-cn.com/problems/word-search/) | Array | Python |[:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/79_word_search.py)| Medium | :o: | 2022-02-24 |
+|957| [Prison Cells After N Days](https://leetcode-cn.com/problems/prison-cells-after-n-days/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/957_prison_cells_after_n_days.py)| Medium | :x: | 2022-02-24 |
+|240| [Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/240_search_a_2d_matrix_ii.py)| Medium | :x: | 2022-02-24 |
+|347| [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/347_top_k_frequent_elements.py)| Medium | :x: | 2022-02-25 |
+|1010| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/1010_pairs_of_songs_with_total_durations_divisible_by_60.py) | Medium | :x: | 2022-02-25 |
+|48| [Rotate Image](https://leetcode-cn.com/problems/rotate-image/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/48_rotate_image.py) | Medium | :o: | 2022-02-25 |
+|1167| [Minimum Cost to Connect Sticks](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/1167_minimum_cost_to_connect_sticks.py) | Medium | :o: | 2022-02-25 |
+|54| [Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/54_spiral_matrix.py)| Medium | :x: | 2022-02-25 |
+|31| [Next Permutations](https://leetcode-cn.com/problems/next-permutation/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/31_next_permutations.py)| Medium | :x: | 2022-03-01 |
+|348| [Design tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/) | Array | Python |[:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/31_next_permutations.py) | Medium | :o: | 2022-03-01 |
+|322| [Coin Change](https://leetcode-cn.com/problems/coin-change/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/322_coin_change.py) | Medium | :x: | 2022-03-02 |
+|1465| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/1465_maximum_area_of_a_piece_of_cake_after_horizontal_and_vertical_cuts.py)| Medium | :o: | 2022-03-02 |
+|45| [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/45_jump_game_ii.py)| Medium | :o: | 2022-03-02 |
+|215| [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/215_kth_largest_element_in_an_array.py)| Medium | :o: | 2022-03-03 |
+|152| [maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/152_maximum_product_subarray.py)| Medium | :o: | 2022-03-04 |

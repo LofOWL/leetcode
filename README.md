@@ -28,3 +28,5 @@
 |45| [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/45_jump_game_ii.py)| Medium | :o: | 2022-03-02 |
 |215| [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/215_kth_largest_element_in_an_array.py)| Medium | :o: | 2022-03-03 |
 |152| [maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/152_maximum_product_subarray.py)| Medium | :o: | 2022-03-04 |
+|138| [Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/138_copy_list_with_random_pointer.py)| Medium |:o:| 2022-03-17 |
+|146| [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/146_lrc_cache.py) | Medium | :x: | 2022-03-17 |

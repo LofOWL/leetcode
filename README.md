@@ -1,3 +1,4 @@
+array >>> linked list >>> hash table >>> string >>> stack and queue >>> tree >>> backtracking >>> greedy
 | # | Title | Type | Source Code | Best Solution | Difficulty | Done | Date |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |11| [Container with most water](https://leetcode-cn.com/problems/container-with-most-water/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/11_container_with_most_water.py) | Medium | :x: | 2022-02-21 |
@@ -32,3 +33,7 @@
 |146| [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/146_lrc_cache.py) | Medium | :x: | 2022-03-17 |
 |445| [Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/445_add_two_numbers_ii.py) | Medium | :o: | 2022-03-18 |
 |116| [Populating Next right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/116_populating_next_right_pointers_in_each_node.py) | Medium | :o: | 2022-03-18 |
+|19| [Remove nth node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/19_remove_nth_node_from_end_of_list.py) | Medium | :o: | 2022-03-24 |
+|114| [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/114_flatten_binary_tree_to_linked_list.py) | Medium | :o: | 2022-03-24 |
+|142| [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/142_linked_list_cycle_ii.py) | Medium | :o: | 2022-03-24 |
+|148| [Sort List](https://leetcode-cn.com/problems/sort-list/) | Linked-List | Python | [:crown:]() | Medium | :o: | 2022-03-24 | 

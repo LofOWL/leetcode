@@ -1,4 +1,14 @@
-array >>> linked list >>> hash table >>> string >>> stack and queue >>> tree >>> backtracking >>> greedy
+| type | count | correct| total |
+|:---:|:---:|:---:|:---:|
+| Array | 28 | 18 | |
+| Linked list | 8 | 7 | |
+| Hash table | | | |
+| String | | | |
+| Stack and Queue | | | |
+| Tree | | | |
+| Backtracking | | | |
+| Greedy | | | |
+
 | # | Title | Type | Source Code | Best Solution | Difficulty | Done | Date |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |11| [Container with most water](https://leetcode-cn.com/problems/container-with-most-water/) | Array | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Array/11_container_with_most_water.py) | Medium | :x: | 2022-02-21 |
@@ -36,4 +46,4 @@ array >>> linked list >>> hash table >>> string >>> stack and queue >>> tree >>>
 |19| [Remove nth node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/19_remove_nth_node_from_end_of_list.py) | Medium | :o: | 2022-03-24 |
 |114| [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/114_flatten_binary_tree_to_linked_list.py) | Medium | :o: | 2022-03-24 |
 |142| [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/142_linked_list_cycle_ii.py) | Medium | :o: | 2022-03-24 |
-|148| [Sort List](https://leetcode-cn.com/problems/sort-list/) | Linked-List | Python | [:crown:]() | Medium | :o: | 2022-03-24 | 
+|148| [Sort List](https://leetcode-cn.com/problems/sort-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/148_sort_list.py) | Medium | :o: | 2022-03-24 | 

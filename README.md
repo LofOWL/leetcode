@@ -2,10 +2,10 @@
 |:---:|:---:|:---:|:---:|
 | Array | 28 | 18 | |
 | Linked list | 8 | 7 | |
-| Hash table | | | |
+| Hash table | 3 | 2 | |
 | String | | | |
 | Stack and Queue | | | |
-| Tree | | | |
+| Tree | 1 | 0 | |
 | Backtracking | | | |
 | Greedy | | | |
 
@@ -47,3 +47,6 @@
 |114| [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/114_flatten_binary_tree_to_linked_list.py) | Medium | :o: | 2022-03-24 |
 |142| [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/142_linked_list_cycle_ii.py) | Medium | :o: | 2022-03-24 |
 |148| [Sort List](https://leetcode-cn.com/problems/sort-list/) | Linked-List | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Linked-List/148_sort_list.py) | Medium | :o: | 2022-03-24 | 
+|17| [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/17_letter_combinations_of_a_phone_number.py.py) | Medium | :o: | 2022-03-25 |
+|49| [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/49_group_anagrams.py) | Medium | :o: | 2022-03-25 |
+|105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Hash-Table + Tree | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/105_construct_binary_tree_from_preorder_and_inorder_traversal.py) | Medium | :x: | 2022-03-25 |

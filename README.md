@@ -2,10 +2,10 @@
 |:---:|:---:|:---:|:---:|
 | Array | 28 | 18 | |
 | Linked list | 8 | 7 | |
-| Hash table | 3 | 2 | |
+| Hash table | 6 | 4 | |
 | String | | | |
 | Stack and Queue | | | |
-| Tree | 1 | 0 | |
+| Tree | 2 | 0 | |
 | Backtracking | | | |
 | Greedy | | | |
 
@@ -50,3 +50,6 @@
 |17| [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/17_letter_combinations_of_a_phone_number.py.py) | Medium | :o: | 2022-03-25 |
 |49| [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/49_group_anagrams.py) | Medium | :o: | 2022-03-25 |
 |105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Hash-Table + Tree | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/105_construct_binary_tree_from_preorder_and_inorder_traversal.py) | Medium | :x: | 2022-03-25 |
+|128| [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/128_longest_consecutive_sequence.py) | Medium | :o: | 2022-03-26 |
+|208| [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | Hash-Table + Tree| Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/208_implement_trie_(prefix_tree).py) | Medium | :x: | 2022-03-26 |
+|438| [Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | Hassh-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/438_find_all_anagrams_in_a_string.py) | Medium | :o: | 2022-03-26 |

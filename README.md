@@ -2,7 +2,7 @@
 |:---:|:---:|:---:|:---:|
 | Array | 28 | 18 | |
 | Linked list | 8 | 7 | |
-| Hash table | 8 | 4 | |
+| Hash table | 11 | 5 | |
 | String | | | |
 | Stack and Queue | | | |
 | Tree | 2 | 0 | |
@@ -56,3 +56,6 @@
 |560| [Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/560_subarray_sum_equals_k.py) | Medium | :x: | 2022-03-27 |
 |621| [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/621_task_scheduler.py) | Medium | :x: | 2022-03-27 |
 |76| [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/76_minimum_window_substring.py) | Hard| :x: | 2022-03-27 |
+|159| [Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/159_longest_substring_with_at_most_two_distinct_characters.py) | Medium | :x: | 2022-03-30 |
+|244| [Shortest Word Distance II](https://leetcode-cn.com/problems/shortest-word-distance-ii/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/244_shortest_word_distance_ii.py) | Medium | :x: | 2022-03-30 |
+|249| [Group Shifted Strings](https://leetcode-cn.com/problems/group-shifted-strings/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/249_group_shifted_strings.py) | Medium | :o: | 2022-03-30 |

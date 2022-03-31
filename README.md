@@ -2,7 +2,7 @@
 |:---:|:---:|:---:|:---:|
 | Array | 28 | 18 | |
 | Linked list | 8 | 7 | |
-| Hash table | 11 | 5 | |
+| Hash table | 14 | 7 | |
 | String | | | |
 | Stack and Queue | | | |
 | Tree | 2 | 0 | |
@@ -59,3 +59,6 @@
 |159| [Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/159_longest_substring_with_at_most_two_distinct_characters.py) | Medium | :x: | 2022-03-30 |
 |244| [Shortest Word Distance II](https://leetcode-cn.com/problems/shortest-word-distance-ii/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/244_shortest_word_distance_ii.py) | Medium | :x: | 2022-03-30 |
 |249| [Group Shifted Strings](https://leetcode-cn.com/problems/group-shifted-strings/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/249_group_shifted_strings.py) | Medium | :o: | 2022-03-30 |
+|267| [Palindrome Permutation II](https://leetcode-cn.com/problems/palindrome-permutation-ii/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/267_palindrome_permutation_ii.py) | Medium | :o: | 2022-03-31 |
+|291| [Word Pattern II](https://leetcode-cn.com/problems/word-pattern-ii/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/291_word_pattern_ii.py) | Medium | :x: | 2022-03-31 |
+|311| [Sparse Matrix Multiplication](https://leetcode-cn.com/problems/sparse-matrix-multiplication/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/311_sparse_matrix_multiplication.py) | Medium | :o: | 2022-03-31 |

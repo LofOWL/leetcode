@@ -2,7 +2,7 @@
 |:---:|:---:|:---:|:---:|
 | Array | 28 | 18 | |
 | Linked list | 8 | 7 | |
-| Hash table | 14 | 7 | |
+| Hash table | 19 | 9 | |
 | String | | | |
 | Stack and Queue | | | |
 | Tree | 2 | 0 | |
@@ -62,3 +62,8 @@
 |267| [Palindrome Permutation II](https://leetcode-cn.com/problems/palindrome-permutation-ii/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/267_palindrome_permutation_ii.py) | Medium | :o: | 2022-03-31 |
 |291| [Word Pattern II](https://leetcode-cn.com/problems/word-pattern-ii/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/291_word_pattern_ii.py) | Medium | :x: | 2022-03-31 |
 |311| [Sparse Matrix Multiplication](https://leetcode-cn.com/problems/sparse-matrix-multiplication/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/311_sparse_matrix_multiplication.py) | Medium | :o: | 2022-03-31 |
+|314| [Binary Tree Vertical Order Traversal](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/314_binary_tree_vertical_order_traversal.py) | Medium | :o: | 2022-04-01 |
+|325| [Maximum Size Subarray Sum Equals k](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/325_maximum_size_subarray_sum_equals_k.py) | Medium | :x: | 2022-04-01 |
+|340| [Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/340_longest_substring_with_at_most_k_distinct_characters.py) | Medium | :x: | 2022-04-01 |
+|356| [Line Reflection](https://leetcode-cn.com/problems/line-reflection/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/356_line_reflection.py) | Medium | :x: | 2022-04-01 |
+|362| [Design Hit Counter](https://leetcode-cn.com/problems/design-hit-counter/) | Hash-Table | Python | [:crown:](https://github.com/LofOWL/leetcode/blob/main/Hash-Table/362_design_hit_counter.py) | Medium | :o: | 2022-04-01 |
